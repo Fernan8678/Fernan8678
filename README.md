@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Romero
-- 👀 I’m interested in Data Science and Data Anlitycs
+- 👀 I’m interested in Data Science and Data Analitycs
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science proyects
 - 📫 How to reach me fernandoromero256@gmail.com
